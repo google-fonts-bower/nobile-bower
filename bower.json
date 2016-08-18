@@ -1,0 +1,17 @@
+{
+    "name": "nobile-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Vernon Adams"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/nobile-bower.git"
+    },
+    "description": "Nobile font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
